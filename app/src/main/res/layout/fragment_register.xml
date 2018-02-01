@@ -13,6 +13,7 @@
 
     <!--Avata Image-->
     <ImageView
+        android:id="@+id/imvAvata"
         android:layout_margin="15dp"
         android:layout_gravity="center_horizontal"
         android:src="@drawable/avata"
